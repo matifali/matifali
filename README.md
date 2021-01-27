@@ -1,6 +1,15 @@
 <h2>Hi there, here is Atif's GitHub.</h2>
 Pakistani; Electrical Engineer; Libra; 27; Perspective Grad Student in AI
 
-[![matifali github stats](https://github-readme-stats.vercel.app/api?username=matifali)](https://github.com/matifali)
+[![Years Badge](https://badges.pufler.dev/years/matifali)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/matifali)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/matifali)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/matifali/matifali)](https://badges.pufler.dev)
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmatifali&longCache=true)](https://github.com/matifali)
+<a href="https://github.com/matifali">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matifali&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=matifali&hide_title=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/matifali">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matifali&layout=compact&card_width=250&hide_border=true&theme=tokyonight" /
+</a>
