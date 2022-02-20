@@ -1,5 +1,5 @@
 <h2>Hi there, here is Atif's GitHub.</h2>
-Pakistani; Electrical Engineer; Libra; 27; Perspective Grad Student in AI
+Pakistani; Electrical Engineer; Libra; Grad Student in AI
 
 [![Years Badge](https://badges.pufler.dev/years/matifali)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/matifali)](https://badges.pufler.dev)
