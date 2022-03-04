@@ -1,5 +1,6 @@
 <h2>Hi there, here is Atif's GitHub.</h2>
-Pakistani; Electrical Engineer; Libra; Grad Student in AI
+Pakistani; Electrical Engineer; Libra; Grad Student in AI.
+I am currently working as a grdaute research assistant and a masters student both at Bilknet University, Turkey.
 
 [![Years Badge](https://badges.pufler.dev/years/matifali)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/matifali)](https://badges.pufler.dev)
