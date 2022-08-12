@@ -1,6 +1,5 @@
 <h2>Hi there!</h2>
-Pakistani; Electrical Engineer; Libra; Grad Student in AI.
-I am currently working as a grdaute research assistant at Bilknet University, Turkey.
+Pakistani; Electrical Engineer; Libra; Grad Student in AI. I am currently working as a graduate research assistant at Bilkent University,
 
 
 <a href="https://github.com/matifali">
