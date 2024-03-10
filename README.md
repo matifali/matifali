@@ -1,7 +1,5 @@
 Hi! My name is Atif. I am a graduate student in Electrical Engineering at Bilkent University. Most of my current research is driven by trying to find robust training methods for analog neural networks, specifically for applications in wireless communications.
 
-I like DevOps and work for [Coder](https://github.com/coder/coder).
-
 ### Skills
   - Python, MATLAB, C/C++.
   - PyTorch, TensorFlow
